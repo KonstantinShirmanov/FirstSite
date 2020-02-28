@@ -41,7 +41,7 @@ text-decoration: underline;
 }
 #left{
 	 width: 180px;
- padding-top: 10px;
+ padding-top: 5px;
  padding-bottom: 10px;
  vertical-align: top;
 }
@@ -60,7 +60,7 @@ text-decoration: underline;
   #left ul {
  list-style-type: square;
  color: #2979BD;
- padding-left: 30px;
+ padding-left: 0px;
  font-size: 13px;
  }
 
